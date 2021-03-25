@@ -4,4 +4,8 @@ body {
 
 h1 {
   color: grey;
+  text-align: center;
+}
+#booleanLogo {
+  align-content: center;
 }
